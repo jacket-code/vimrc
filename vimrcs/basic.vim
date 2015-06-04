@@ -44,6 +44,7 @@
 " => General
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " Sets how many lines of history VIM has to remember
+set number
 set history=700
 
 " Enable filetype plugins
